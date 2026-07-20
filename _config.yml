@@ -1,0 +1,10 @@
+# 网站配置
+title: 夏C的技术博客
+description: 计算机专业学生，分享学习与思考
+
+# 主题（让网站变好看）
+theme: jekyll-theme-cayman
+
+# 让首页显示文章列表
+plugins:
+  - jekyll-seo-tag
